@@ -92,7 +92,7 @@ on a snake, showcasing my early love for interactive coding and game development
     <img alt="snake eating my contributions"
         src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 
-    <br /><br /><br />
+    <br><br><br>
 </div>
 
 
