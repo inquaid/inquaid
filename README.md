@@ -11,7 +11,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=inquaid" alt="inquaid" /></a> </p>
 
-- 📫 How to reach me **azmaininquaidhaque@gmail.com**
+- 📫 How to reach me -> **azmaininquaidhaque@gmail.com**
 
 - ⚡ Fun fact **I created a Scratch project where a dog runs using arrow keys to eat donuts and says 'ouch' when it steps
 on a snake, showcasing my early love for interactive coding and game development!**
@@ -91,8 +91,9 @@ on a snake, showcasing my early love for interactive coding and game development
     <h2>🐍 My Contributions 🐍</h2>
     <img alt="snake eating my contributions"
         src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-
-    <br><br><br>
+    <br>
+    <br>
+    <br>
 </div>
 
 
