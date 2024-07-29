@@ -31,7 +31,7 @@ on a snake, showcasing my early love for interactive coding and game development
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
             alt="@azmaininquaidhaque" height="30" width="40" /></a>
     <a href="https://www.codechef.com/users/turjooo" target="blank"><img align="center"
-            src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="turjooo" height="30"
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5XHoiHvpXUMBSR8vbmyiHLAAQ8yvcg0mvLg&s" alt="turjooo" height="30"
             width="40" /></a>
     <a href="https://www.hackerrank.com/azmaininquaidha1" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
