@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Azmain Inquaid Haque Turja</h1>
 <h3 align="center">CSE Student | Aspiring AI and Software Engineer Passionate About NLP, Machine Learning, and Algorithms | AI Enthusiast Exploring Deep Learning, Neural Networks, and Data Science | Innovative Projects | 3D Animations</h3>
 
-img align="right" alt="Coding" width="400" src="https://media.lordicon.com/icons/wired/lineal/2077-hacking.gif"
+<img align="right" alt="Coding" width="400" src="https://media.lordicon.com/icons/wired/lineal/2077-hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inquaid&label=Profile%20views&color=0e75b6&style=flat" alt="inquaid" /> </p>
 
