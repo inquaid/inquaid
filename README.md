@@ -50,7 +50,7 @@ on a snake, showcasing my early love for interactive coding and game development
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"> 
-                <img src="https://res.cloudinary.com/apideck/image/upload/v1601396557/icons/powershell.png" alt="blender"
+                <img src="https://res.cloudinary.com/apideck/image/upload/v1601396557/icons/powershell.png" alt="powershell"
             width="40" height="40" /> </a>  
         <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> 
                 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/800px-C_Sharp_Logo_2023.svg.png" alt="c_sharp"
