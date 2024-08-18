@@ -13,6 +13,7 @@
 
 - 📫 How to reach me -> **azmaininquaidhaque@gmail.com**
 - 📟 [Portfolio](https://inquaid.github.io/my_Portfolio/)
+- 🔗 [LinkedIn](www.linkedin.com/in/azmain-inquaid-haque-44a4b62b1)
 - ⚡ Fun fact **I created a Scratch project where a dog runs using arrow keys to eat donuts and says 'ouch' when it steps
 on a snake, showcasing my early love for interactive coding and game development!**
 
