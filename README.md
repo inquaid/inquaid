@@ -9,7 +9,7 @@
         alt="inquaid" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=inquaid&theme=transparent" alt="inquaid" /></a> </p>
+            src="https://github-profile-trophy.vercel.app/?username=inquaid&theme=onedark" alt="inquaid" /></a> </p>
 
 - 📫 How to reach me -> **azmaininquaidhaque@gmail.com**
 - 📟 [Portfolio](https://inquaid.github.io/my_Portfolio/)
@@ -109,10 +109,10 @@ on a snake, showcasing my early love for interactive coding and game development
 
 
 <p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=inquaid&show_icons=true&locale=en&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=inquaid&theme=transparent&show_icons=true&locale=en&layout=compact"
         alt="inquaid" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=inquaid&show_icons=true&locale=en"
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=inquaid&theme=transparent&show_icons=true&locale=en"
         alt="inquaid" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=inquaid&theme=transparent" alt="inquaid" /></p>
