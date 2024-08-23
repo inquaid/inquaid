@@ -115,4 +115,4 @@ on a snake, showcasing my early love for interactive coding and game development
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=inquaid&show_icons=true&locale=en"
         alt="inquaid" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=inquaid&" alt="inquaid" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=inquaid&theme=transparent" alt="inquaid" /></p>
