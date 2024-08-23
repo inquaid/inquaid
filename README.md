@@ -9,7 +9,7 @@
         alt="inquaid" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=inquaid&theme=onedark" alt="inquaid" /></a> </p>
+            src="https://github-profile-trophy.vercel.app/?username=inquaid&theme=transparent" alt="inquaid" /></a> </p>
 
 - 📫 How to reach me -> **azmaininquaidhaque@gmail.com**
 - 📟 [Portfolio](https://inquaid.github.io/my_Portfolio/)
