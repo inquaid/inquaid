@@ -2,26 +2,27 @@
 <h3 align="center">CSE Student | Aspiring AI and Software Engineer Passionate About NLP, Machine Learning, and
     Algorithms | AI Enthusiast Exploring Deep Learning, Neural Networks, and Data Science | Innovative Projects | 3D
     Animations</h3>
-**Azmain Inquaid Haque**
 
-* **Born:** February 1st, 2005
-* **Education:** Pursuing B.Sc. in Computer Science and Engineering at Khulna University
+ <h1>Azmain Inquaid Haque</h1>
+<p><strong>Born:</strong> February 1st, 2005</p>
+<p><strong>Education:</strong> Pursuing B.Sc. in Computer Science and Engineering at Khulna University</p>
 
-**Skills:**
+<h2>Skills:</h2>
+<ul>
+<li>Programming: <span>C, C++, Java, Python, HTML, CSS, JavaScript, Shell, C#</span></li>
+<li>Database: <span>MySQL</span></li>
+<li>Version Control: <span>Git, GitHub</span></li>
+<li>Design: <span>Adobe Photoshop, Illustrator, Premiere Pro, Canva</span></li>
+<li>Video Editing: <span>Canva, Capcut</span></li>
+<li>3D Software: <span>Blender</span></li>
+<li>Music Production: <span>FL Studio</span></li>
+<li>Operating Systems: <span>Windows, Linux</span></li>
+<li>Development Environments: <span>Visual Studio Code, Jetbrain</span></li>
+</ul>
 
-* **Programming:** C, C++, Java, Python, HTML, CSS, JavaScript, Shell, C#
-* **Database:** MySQL
-* **Version Control:** Git, GitHub
-* **Design:** Adobe Photoshop, Illustrator, Premiere Pro, Canva
-* **Video Editing:** Canva, Capcut
-* **3d Software:** Blender
-* **Music Production:** FL Studio
-* **Operating Systems:** Windows, Linux
-* **Development Environments:** Visual Studio Code, Jetbrain
-
-**Interests:** AI/ML, Projects, Design
-
-**Let's connect!** @Azmain_Inquaid
+<h2>Interests:</h2>
+<p>AI/ML, Projects, Design</p>
+<p>Let's connect! <a href="https://www.socialmedia.com/Azmain_Inquaid">@Azmain_Inquaid</a></p>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1FBC0E&center=true&vCenter=true&multiline=true&width=600&lines=AI+is+the+solution+to+end+slavery+from+the+world." alt="Typing SVG" /></a>
 <!-- <img align="right" alt="Coding" width="400" src="https://media.lordicon.com/icons/wired/lineal/2077-hacking.gif"> -->
