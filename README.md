@@ -3,6 +3,8 @@
     Algorithms | AI Enthusiast Exploring Deep Learning, Neural Networks, and Data Science | Innovative Projects | 3D
     Animations</h3>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1FBC0E&center=true&vCenter=true&multiline=true&width=600&lines=AI+is+the+solution+to+end+slavery+from+the+world." alt="Typing SVG" /></a>
+
  <h1>Info:</h1>
 <p><strong>Born:</strong> February 1st, 2005</p>
 <p><strong>Education:</strong> Pursuing B.Sc. in Computer Science and Engineering at Khulna University</p>
@@ -22,9 +24,9 @@
 
 <h2>Interests:</h2>
 <p>AI/ML, Projects, Design</p>
-<p>Let's connect! <a href="https://www.socialmedia.com/Azmain_Inquaid">@Azmain_Inquaid</a></p>
+<p>Let's connect! <a href="https://t.me/azmain_inquaid">@Azmain_Inquaid</a></p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1FBC0E&center=true&vCenter=true&multiline=true&width=600&lines=AI+is+the+solution+to+end+slavery+from+the+world." alt="Typing SVG" /></a>
+
 <!-- <img align="right" alt="Coding" width="400" src="https://media.lordicon.com/icons/wired/lineal/2077-hacking.gif"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inquaid&label=Profile%20views&color=0e75b6&style=flat"
