@@ -3,7 +3,7 @@
     Algorithms | AI Enthusiast Exploring Deep Learning, Neural Networks, and Data Science | Innovative Projects | 3D
     Animations</h3>
 
- <h1>Azmain Inquaid Haque</h1>
+ <h1>Info:</h1>
 <p><strong>Born:</strong> February 1st, 2005</p>
 <p><strong>Education:</strong> Pursuing B.Sc. in Computer Science and Engineering at Khulna University</p>
 
