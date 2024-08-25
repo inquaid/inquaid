@@ -2,6 +2,26 @@
 <h3 align="center">CSE Student | Aspiring AI and Software Engineer Passionate About NLP, Machine Learning, and
     Algorithms | AI Enthusiast Exploring Deep Learning, Neural Networks, and Data Science | Innovative Projects | 3D
     Animations</h3>
+**Azmain Inquaid Haque**
+
+* **Born:** February 1st, 2005
+* **Education:** Pursuing B.Sc. in Computer Science and Engineering at Khulna University
+
+**Skills:**
+
+* **Programming:** C, C++, Java, Python, HTML, CSS, JavaScript, Shell, C#
+* **Database:** MySQL
+* **Version Control:** Git, GitHub
+* **Design:** Adobe Photoshop, Illustrator, Premiere Pro, Canva
+* **Video Editing:** Canva, Capcut
+* **3d Software:** Blender
+* **Music Production:** FL Studio
+* **Operating Systems:** Windows, Linux
+* **Development Environments:** Visual Studio Code, Jetbrain
+
+**Interests:** AI/ML, Projects, Design
+
+**Let's connect!** @Azmain_Inquaid
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1FBC0E&center=true&vCenter=true&multiline=true&width=600&lines=AI+is+the+solution+to+end+slavery+from+the+world." alt="Typing SVG" /></a>
 <!-- <img align="right" alt="Coding" width="400" src="https://media.lordicon.com/icons/wired/lineal/2077-hacking.gif"> -->
