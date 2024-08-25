@@ -46,7 +46,7 @@ on a snake, showcasing my early love for interactive coding and game development
     <a href="https://linkedin.com/in/azmain-inquaid-haque-44a4b62b1" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="azmain-inquaid-haque-44a4b62b1" height="30" width="40" /></a>
-    <a href="https://stackoverflow.com/users/azmain-inquaid-haque" target="blank"><img align="center"
+    <a href="https://stackoverflow.com/users/22622701/azmain-inquaid-haque" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
             alt="azmain-inquaid-haque" height="30" width="40" /></a>
     <a href="https://fb.com/azmaininquaid007" target="blank"><img align="center"
