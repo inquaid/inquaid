@@ -120,17 +120,19 @@ on a snake, showcasing my early love for interactive coding and game development
             alt="python" width="40" height="40" /> </a> </p>
 
 
-<div align="center">
-    <br>
-    <h2>🐍 My Contributions 🐍</h2>
-    <img alt="snake eating my contributions"
-        src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-    <br>
-    <br>
-    <br>
-</div>
+<!-- <div align="center"> -->
+<!--     <br> -->
+<!--     <h2>🐍 My Contributions 🐍</h2> -->
+<!--     <img alt="snake eating my contributions" -->
+<!--         src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" /> -->
+<!--     <br> -->
+<!--     <br> -->
+<!--     <br> -->
+<!-- </div> -->
 
-
+<br> 
+<br> 
+<br> 
 
 <p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=inquaid&theme=radical&show_icons=true&locale=en&layout=compact"
